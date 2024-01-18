@@ -1,0 +1,14 @@
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01-Repaso\Ejercicio01-Repaso\bin\Debug\net7.0\Ejercicio01-Repaso.exe
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01-Repaso\Ejercicio01-Repaso\bin\Debug\net7.0\Ejercicio01-Repaso.deps.json
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01-Repaso\Ejercicio01-Repaso\bin\Debug\net7.0\Ejercicio01-Repaso.runtimeconfig.json
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01-Repaso\Ejercicio01-Repaso\bin\Debug\net7.0\Ejercicio01-Repaso.dll
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01-Repaso\Ejercicio01-Repaso\bin\Debug\net7.0\Ejercicio01-Repaso.pdb
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01-Repaso\Ejercicio01-Repaso\obj\Debug\net7.0\Ejercicio01-Repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01-Repaso\Ejercicio01-Repaso\obj\Debug\net7.0\Ejercicio01-Repaso.AssemblyInfoInputs.cache
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01-Repaso\Ejercicio01-Repaso\obj\Debug\net7.0\Ejercicio01-Repaso.AssemblyInfo.cs
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01-Repaso\Ejercicio01-Repaso\obj\Debug\net7.0\Ejercicio01-Repaso.csproj.CoreCompileInputs.cache
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01-Repaso\Ejercicio01-Repaso\obj\Debug\net7.0\Ejercicio01-Repaso.dll
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01-Repaso\Ejercicio01-Repaso\obj\Debug\net7.0\refint\Ejercicio01-Repaso.dll
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01-Repaso\Ejercicio01-Repaso\obj\Debug\net7.0\Ejercicio01-Repaso.pdb
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01-Repaso\Ejercicio01-Repaso\obj\Debug\net7.0\Ejercicio01-Repaso.genruntimeconfig.cache
+C:\Users\shish\Desktop\Ejercicio05\Ejercicio01-Repaso\Ejercicio01-Repaso\obj\Debug\net7.0\ref\Ejercicio01-Repaso.dll
